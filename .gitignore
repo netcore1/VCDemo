@@ -1,0 +1,11 @@
+.vs
+.vscode
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+*.zip
+*.rar
+
+package-lock.json
