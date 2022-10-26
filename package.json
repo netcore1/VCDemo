@@ -10,13 +10,13 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:brucelinescounter.helloWorld"
+    "onCommand:linescounter.helloWorld"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "brucelinescounter.helloWorld",
+        "command": "linescounter.helloWorld",
         "title": "Hello World"
       }
     ]
